@@ -1,0 +1,104 @@
+﻿ul#menuName, ul#menuTitle, ul#menuImage{
+height:auto;      
+     position:relative;
+     list-style-type:none;
+}
+
+/* Color fade Images style */
+.imageBox
+{
+    position:absolute;
+    top:500px;
+    left:0px;
+    height:50px;
+}
+
+.bw
+{
+    position:absolute;
+    top:0px;
+    left:0px;
+    z-index:-10;
+}
+.color
+{
+    position:absolute;
+    top:0px;
+    left:0px;
+    z-index:0;
+    opacity:0.0;
+}
+    
+
+
+ul#menuName li
+{
+ padding:10px;   
+    opacity:.3;
+}
+
+ ul#menuTitle li
+ {
+     padding:10px;
+     opacity:0.3;
+ }
+ 
+  ul#menuImage li
+ {
+     padding:0px;
+
+ }
+ 
+ ul#menuImage li img
+ {
+     height:50px;
+ }
+ 
+
+#nameContainer
+{
+        position:absolute;
+    top:0px;
+    left:200px;
+    height:200px;       
+    overflow:hidden;
+    width:200px;
+}
+
+#titleContainer{
+    position:absolute;
+    top:0px;
+    left:400px;
+    height:200px;       
+    overflow:hidden;
+    width:400px;
+}
+
+#imageContainer
+{
+    position:absolute;
+    top:0px;
+    left:600px;
+    width:500px;
+     overflow:hidden;
+}
+
+img#shimmerText
+{
+    top: 250px;
+    left:200px;
+ position:absolute;
+height: 40px;
+width:400px;
+ opacity:0.0;
+ z-index:-80;
+    
+}
+
+img#shimmerImage
+{
+    
+    
+}
+
+

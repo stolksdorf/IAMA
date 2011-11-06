@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAMA", "IAMA\IAMA.csproj", "{6A670890-737B-4645-9D71-D3E46D145AE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CF6635C-8DDF-4C2D-98E4-024C8EF22BDD}"
+	ProjectSection(SolutionItems) = preProject
+		community.htm = community.htm
+		connect.htm = connect.htm
+		iama.htm = iama.htm
+		impact.htm = impact.htm
+		index.htm = index.htm
+		main.htm = main.htm
+		method.htm = method.htm
+		partners.htm = partners.htm
+		process.htm = process.htm
+		team.htm = team.htm
+		video.htm = video.htm
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{DA03A7A6-508C-4792-83E7-791E6F17D7D5}"
+	ProjectSection(SolutionItems) = preProject
+		scripts\connect.js = scripts\connect.js
+		scripts\iama.js = scripts\iama.js
+		scripts\index.js = scripts\index.js
+		scripts\main.js = scripts\main.js
+		scripts\method.js = scripts\method.js
+		scripts\partners.js = scripts\partners.js
+		scripts\team.js = scripts\team.js
+		scripts\video.js = scripts\video.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Styles", "Styles", "{0D18FCE8-2F57-44F9-BE09-F5348010D4D7}"
+	ProjectSection(SolutionItems) = preProject
+		styles\connect.css = styles\connect.css
+		styles\iama.css = styles\iama.css
+		styles\index.css = styles\index.css
+		styles\main.css = styles\main.css
+		styles\method.css = styles\method.css
+		styles\partners.css = styles\partners.css
+		styles\team.css = styles\team.css
+		styles\video.css = styles\video.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A670890-737B-4645-9D71-D3E46D145AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A670890-737B-4645-9D71-D3E46D145AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A670890-737B-4645-9D71-D3E46D145AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A670890-737B-4645-9D71-D3E46D145AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

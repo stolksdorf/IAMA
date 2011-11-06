@@ -1,0 +1,136 @@
+﻿.head
+{
+    font-size :25px;
+    margin-left:20px;
+    margin-top:10px;
+}
+
+#partners_divider
+{
+    background-color :Gray;
+    opacity:0.3;
+    height:3px;
+    width:100%;
+}
+
+#right-container
+{       
+    position:relative;
+    width:50%;
+    float:Right;
+}
+
+
+/* Gold Sponsor Code */
+#gold
+{
+    height:300px;
+    width:100%;
+    position:relative;
+    margin-top :20px;
+}
+
+ul#goldScroll
+{
+    position:relative;
+    left:100px;
+    top:100px;
+    list-style-type:none;
+    width:800px;
+    text-align:center;
+}
+
+div.goldSponsor
+{
+    margin-top:10px;
+    text-align :center;
+    font-size :25px;
+}
+
+li.goldSponsor img
+{
+    height:100px;
+}
+
+
+/* Silver Sponsor Code */
+#silver    
+{
+    position:relative;
+    width:50%;
+    height:100%;
+    float:left;
+}
+
+ul#silverScroll
+{
+    position:relative;
+    list-style-type:none;
+    text-align:center;
+}
+
+div.silverSponsor
+{
+    margin-top:10px;
+    text-align :center;
+    font-size :20px;
+    float :right;
+}
+
+li.silverSponsor img
+{
+    height:50px;
+}
+
+
+
+/* Bronze Sponsor Code */
+#bronze    
+{
+    position:relative;
+    height:180px;
+}
+
+table.partners
+{
+margin-left:50px;
+width:100%;
+}
+
+table.partners td
+{
+    opacity:.3;
+    font-size :18px;
+    padding:10px;
+}
+
+/* Contact Code */
+#contact
+{
+    position:relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+   .roundabout-moveable-item {
+      height: 50px;
+      width: 50px;
+      cursor: pointer;
+      background-color: #ffc;
+      border: 1px solid #999;
+   }
+
+   .roundabout-in-focus { cursor: auto; }
+*/

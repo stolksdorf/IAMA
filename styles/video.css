@@ -1,0 +1,84 @@
+#mainContainer
+{
+    position:relative;
+
+    height:700px;
+    width:100%;
+    top:0px;
+    left:0px;   
+}
+
+#infoContainer
+{
+    position:relative;
+
+    float:right;
+    width:400px;
+    top:0px;
+    height:100%;    
+}
+
+#videoContainer
+{
+
+    height:500px;
+    width:500px;
+    float:left;
+    
+}
+
+#tabContainer 
+{
+	border-top: none;
+	overflow: hidden;
+	clear: both;
+	float: left; width: 100%;
+	background-color:transparent;
+}
+
+
+#videoScroll
+{
+    background-color:Orange;
+    height:100px;
+    width:100%;
+    visibility:hidden;
+    
+}
+
+#videoIdContainer
+{
+    visibility:hidden;
+}
+
+/*   TAB Design   */
+
+ul.tabs {
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style: none;
+	height: 32px; /*--Set height of tabs--*/
+	width: 100%;
+}
+ul.tabs li {
+	float: left;
+	margin: 0;
+	padding: 0; /*
+	height: 31px; -Subtract 1px from the height of the unordered list--
+	line-height: 31px; /*--Vertically aligns the text within the tab--
+	margin-bottom: -1px; /*--Pull the list item down 1px--*/
+	overflow: hidden;
+	position: relative;
+	opacity:0.3;
+	font-size: 1.2em;
+	padding: 0 20px;
+}
+
+
+
+
+.tabContent 
+{
+    visibility:hidden;
+}

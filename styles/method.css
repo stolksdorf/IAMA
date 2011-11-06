@@ -1,0 +1,27 @@
+﻿div.canvas#canvas_method
+{
+    background-color : transparent;
+}
+
+.method_ul
+{
+    list-style-type: none ;  
+
+margin-left:-60px;
+margin-top:40px;
+}
+
+.method_li
+{
+    display:inline;
+    padding:25px;
+    opacity:.300;
+}
+
+div.sub_canvas
+{
+    background-color:transparent;
+    
+    margin-top:30px;
+
+}

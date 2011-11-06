@@ -1,0 +1,5 @@
+C:\root\Programming\Web\IAMA\IAMA\bin\IAMA.dll
+C:\root\Programming\Web\IAMA\IAMA\bin\IAMA.pdb
+C:\root\Programming\Web\IAMA\IAMA\obj\Debug\ResolveAssemblyReference.cache
+C:\root\Programming\Web\IAMA\IAMA\obj\Debug\IAMA.dll
+C:\root\Programming\Web\IAMA\IAMA\obj\Debug\IAMA.pdb

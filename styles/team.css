@@ -1,0 +1,82 @@
+﻿.sub_canvas
+{    
+    font-size:12px;  
+}
+
+
+span.team_name
+{
+    font-size: 18px;
+}
+
+span.team_heading
+{
+    font-size:25px;
+}
+
+.team_ul
+{
+    list-style-type: none ; 
+    width:300px; 
+}
+
+.team_li
+{
+    padding: 5px;
+    opacity:.300;
+}
+
+/* Color fade Images style */
+.imageBox
+{
+    position:relative;
+    height:0px;
+    top:0px;
+    height:100px;
+}
+
+.bw
+{
+    position:absolute;
+    top:0px;
+    left:0px;
+    z-index:10;
+    height:100px;
+}
+.color
+{
+    position:absolute;
+    top:0px;
+    left:0px;
+    z-index:20;
+    opacity:0.0;
+    height:100px;
+}
+
+#profileImages
+{
+    position:absolute;
+    left:700px;
+    top:0px;
+    list-style-type:none;
+}
+
+ul#profileImages li
+{
+
+   height:100px;
+   padding:10px;
+}
+
+
+span#titles
+{
+        position: relative;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 280px;
+    padding:0px; 
+}
+
+    
